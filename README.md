@@ -1,2 +1,13 @@
 # AnonSMSpy
- Sends anonymous messages, 1 per day
+ Sends anonymous message, 1 per day
+
+<br><br>
+
+# Installation
+
+```
+git clone https://github.com/SkajpCZ/AnonSMSpy
+cd AnonSMSpy
+pip install -r requirements.txt
+python3 anonsms.py
+```
