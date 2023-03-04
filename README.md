@@ -6,8 +6,8 @@
 # Installation
 
 ```
-git clone https://github.com/SkajpCZ/AnonSMSpy
-cd AnonSMSpy
+git clone https://github.com/SkajpCZ/AnonSMS
+cd AnonSMS
 pip install -r requirements.txt
 python3 anonsms.py
 ```
